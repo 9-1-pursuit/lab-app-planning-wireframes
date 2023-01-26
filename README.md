@@ -9,5 +9,5 @@ Think back to the [Veterinarian API](./veterinarian-api-description.md) - use th
 
 Submit links to your wireframes on Canvas.
 
-Index and Show Page for Vet API. Please see image below.
+Index and Show Page for Vet API.
 [Index & Show Page.pdf](https://github.com/sreeves07/lab-app-planning-wireframes/files/10512428/Index.Show.Page.pdf)
