@@ -8,3 +8,6 @@ Think back to the [Veterinarian API](./veterinarian-api-description.md) - use th
 - You may use an online tool or paper to draw your wireframes. If you draw your wireframes on paper, you will need to take a photo and upload an image to share.
 
 Submit links to your wireframes on Canvas.
+
+Index and Show Page for Vet API.
+[Index & Show Page.pdf](https://github.com/sreeves07/lab-app-planning-wireframes/files/10512428/Index.Show.Page.pdf)
