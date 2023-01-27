@@ -1,10 +1,10 @@
 # App Planning Activity: Wireframes
 
-## Planning a simple app
+Google Docs wireframe for an app using the Veterinarian API.
+https://docs.google.com/document/d/11gB7yx-8jJHEitKh0qF8pmixkwTxwT0aft2Y3Q4WULQ/edit
 
-Think back to the [Veterinarian API](./veterinarian-api-description.md) - use this app description as a reference to plan a new version of this app.
+Shows views for /api/pets and /api/owners_pets.
 
-- Create a wireframe for at least two views based on your user stories.
-- You may use an online tool or paper to draw your wireframes. If you draw your wireframes on paper, you will need to take a photo and upload an image to share.
+/api/pets is an index page for all pets.
 
-Submit links to your wireframes on Canvas.
+/api/owners_pets shows a page with pet information for a specific owner.
