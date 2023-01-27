@@ -1,10 +1,3 @@
-# App Planning Activity: Wireframes
+# Link to WireFrame App Planning Google Doc
 
-## Planning a simple app
-
-Think back to the [Veterinarian API](./veterinarian-api-description.md) - use this app description as a reference to plan a new version of this app.
-
-- Create a wireframe for at least two views based on your user stories.
-- You may use an online tool or paper to draw your wireframes. If you draw your wireframes on paper, you will need to take a photo and upload an image to share.
-
-Submit links to your wireframes on Canvas.
+ [Google doc link](https://docs.google.com/document/d/1eXPO2oXU6NxUz_sKLmM_Vl_5j6l4fxJxdXsGEz3Acuo/edit?usp=sharing)
